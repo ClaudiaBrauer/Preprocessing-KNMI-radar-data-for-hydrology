@@ -5,6 +5,7 @@ The repository inlcudes:
 - A readme (pdf) with instructions on how to download several KNMI datasets, extract a certain area and save them as time series.
 - An overview (xls) of the (radar) precipitation datasets available from the KNMI data portal.
 - A zip file with the scripts, coordinates and some examples.
+- A separate zip file with the coordinates for the EURADCLIM dataset.
 
 Specific examples are made for the following commonly used products:
 -	IRC RTCOR: for real-time applications
