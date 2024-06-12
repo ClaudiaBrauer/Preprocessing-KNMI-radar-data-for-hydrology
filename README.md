@@ -14,3 +14,4 @@ Specific examples are made for the following commonly used products:
 -	EURADCLIM: for studies (partly) outside the Netherlands
 -	KNMI’23: climate scenarios (not radar but model output)
 
+_Please note that these scripts are new and may contain errors. Please check your data carefully with other datasets and let me know if you find an error._
