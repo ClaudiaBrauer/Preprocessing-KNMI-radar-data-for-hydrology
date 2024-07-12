@@ -15,3 +15,7 @@ Specific examples are made for the following commonly used products:
 -	KNMI’23: climate scenarios (not radar but model output).
 
 _Please note that these scripts are new and may contain errors. Please check your data carefully with other datasets and let me know if you find an error._
+
+![WUR logo](www.github.com/claudiabrauer/walrus/documentation/figures/wu.png).
+
+[Hydrology and Environmental Hydraulics Group](https://www.hwm.wur.nl), Wageningen University, The Netherlands
