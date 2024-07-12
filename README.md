@@ -16,6 +16,6 @@ Specific examples are made for the following commonly used products:
 
 _Please note that these scripts are new and may contain errors. Please check your data carefully with other datasets and let me know if you find an error._
 
-![WUR logo](www.github.com/claudiabrauer/walrus/documentation/figures/wu.png).
+![WUR logo](https://github.com/ClaudiaBrauer/WALRUS/blob/master/documentation/figures/wu.png).
 
 [Hydrology and Environmental Hydraulics Group](https://www.hwm.wur.nl), Wageningen University, The Netherlands
