@@ -9,12 +9,12 @@ The repository inlcudes:
 
 Specific examples are made for the following commonly used products:
 -	IRC RTCOR: for real-time applications.
--	IRC RFCOR: for offline studies after 2023. (For 2018-2022 it's not known whether RAC or IRC RFCOR is better.)
 -	RAC: for offline studies (starting) before 2018.
+-	IRC RFCOR: for offline studies after February 2023. IRC RFCOR is available for the period 2018 to Feb 2023, but the RAC product is probably better.
 -	EURADCLIM: for studies (partly) outside the Netherlands.
 -	KNMI’23: climate scenarios (not radar but model output).
 
-_Please note that these scripts are new and may contain errors. Please check your data carefully with other datasets and let me know if you find an error._
+_Note: Always check your data carefully with other datasets and let me know if you find an error._
 
 ![WUR logo](https://github.com/ClaudiaBrauer/WALRUS/blob/master/documentation/figures/wu.png).
 
